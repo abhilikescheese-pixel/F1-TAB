@@ -16,3 +16,7 @@ A simple tab design with features including the following:
 I used a very helpful youtube video by Bro Code here is the link: https://www.youtube.com/watch?v=2glfqa-ZbNw&t=358s
 
 this project also includes a photo from Farari F1 as the background here is the link: https://pbs.twimg.com/media/GAHfxQOXUAAPQ1u?format=jpg&name=large
+
+
+
+🚨NOTE:I used AI in the making of the css for the buttons
