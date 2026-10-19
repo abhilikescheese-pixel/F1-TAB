@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    min-height: 100vh;
+    font-family: Consolas, monospace;
+
+    background-image: url("https://pbs.twimg.com/media/GAHfxQOXUAAPQ1u?format=jpg&name=large");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 40px;
+}
+
+/* Search */
+.search form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.search input {
+    width: 350px;
+    height: 48px;
+
+    padding: 0 20px;
+
+    border: 2px solid #ddd;
+    border-radius: 30px;
+
+    outline: none;
+
+    font-family: Consolas, monospace;
+    font-size: 15px;
+}
+
+.search input:focus {
+    border-color: #06acff;
+}
+
+.search button {
+    height: 48px;
+
+    padding: 0 24px;
+
+    border: none;
+    border-radius: 30px;
+
+    background: #06acff;
+    color: white;
+
+    cursor: pointer;
+
+    font-family: Consolas, monospace;
+    font-size: 15px;
+    font-weight: bold;
+
+    transition: 0.2s ease;
+}
+
+.search button:hover {
+    transform: translateY(-2px);
+    background: #0098e6;
+}
+
+/* Website buttons */
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    gap: 15px;
+}
+
+.buttons a {
+    text-decoration: none;
+}
+
+.buttons button {
+    padding: 11px 24px;
+
+    border: none;
+    border-radius: 25px;
+
+    background: #06acff;
+    color: white;
+
+    font-family: Consolas, monospace;
+    font-size: 15px;
+    font-weight: 600;
+
+    cursor: pointer;
+
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+
+    transition: 0.2s ease;
+}
+
+.buttons button:hover {
+    transform: translateY(-3px);
+
+    background: #0098e6;
+
+    box-shadow: 0 7px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+
+    .search form {
+        flex-direction: column;
+    }
+
+    .search input {
+        width: 280px;
+    }
+
+    .search button {
+        width: 280px;
+    }
+
+    .buttons {
+        flex-direction: column;
+        width: 280px;
+    }
+
+    .buttons a,
+    .buttons button {
+        width: 100%;
+    }
+}
+
+body {
+    margin: 0;
+}
+#clock-container {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 50vh;
+}
+#clock {
+    font-family: monospace;
+    font-size: 3.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: #06acff; 
+}
+
+
+
+
+
+
