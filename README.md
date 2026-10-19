@@ -1,4 +1,6 @@
 # F1-TAB
+I originally thought of adding a weather system into this project to and a few other features but decided to scrap them ideas.
+
 A simple tab design with features including the following:
 
 - A very simple blue clock that tells the time by the second and also tells you if it is AM or PM.
