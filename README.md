@@ -5,6 +5,9 @@ A modern and clean F1 tab designed to be a minimalist as possible.It contains li
 
 I originally thought of adding a weather system into this project to and a few other features but decided to scrap them ideas.
 
+<img width="637" height="313" alt="image" src="https://github.com/user-attachments/assets/d41466b4-c386-4f4a-ad92-b4a5c86bbb54" />
+
+
 A simple tab design with features including the following:
 
 - A very simple blue clock that tells the time by the second and also tells you if it is AM or PM.
