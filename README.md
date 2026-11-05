@@ -1,4 +1,8 @@
 # F1-TAB
+-DESCRIPTION-
+
+A modern and clean F1 tab designed to be a minimalist as possible.It contains links to the hackclub website, stardance website, youtube and slack.A curved search bar rests above the links and is beside a search button.Also a large clock that atomatically connects to your local time sits to the left of the search bar.
+
 I originally thought of adding a weather system into this project to and a few other features but decided to scrap them ideas.
 
 A simple tab design with features including the following:
@@ -17,8 +21,14 @@ A simple tab design with features including the following:
 
 I used a very helpful youtube video by Bro Code here is the link: https://www.youtube.com/watch?v=2glfqa-ZbNw&t=358s
 
-this project also includes a photo from Farari F1 as the background here is the link: https://pbs.twimg.com/media/GAHfxQOXUAAPQ1u?format=jpg&name=large
+this project also includes a photo from Farari F1 as the background here is the link: https://pbs.twimg.com/media/GAHfxQOXUAAPQ1u?format=jpg&name=lar
 
+-ACCESS LINK- https://abhilikescheese-pixel.github.io/F1-TAB/
 
+ -HOW TO RUN-
+-Copy and paste the link given above into your search bar to access the website 
+
+-HELP-
+if the link is not working try reload the tab.
 
 🚨NOTE:I used AI in the making of the css for the buttons
