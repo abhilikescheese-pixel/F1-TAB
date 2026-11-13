@@ -34,4 +34,7 @@ this project also includes a photo from Farari F1 as the background here is the 
 -HELP-
 if the link is not working try reload the tab.
 
+-LICENSE-
+No license was used
+
 🚨NOTE:I used AI in the making of the css for the buttons
